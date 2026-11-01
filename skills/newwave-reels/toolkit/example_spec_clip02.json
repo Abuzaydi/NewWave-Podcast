@@ -1,0 +1,324 @@
+{
+ "name": "02_500k_to_zero_at_15",
+ "src": "Montage_Podcast_HD.mp4",
+ "src_start": 125.85,
+ "dur": 45.45,
+ "ep_start": 125.85,
+ "music": "audio/score02.wav",
+ "wide_focus_x": 0.21,
+ "phrases": [
+  "and this is like *pink sale* BNB days.",
+  "I'm not sure if you guys were, were trading much in, in *2021,*",
+  "but you know, *crazy, crazy* time in the market.",
+  "It was like the whole *safe moon*",
+  "and *Elon bulls*",
+  "and, you know, I was, I was still *very young* at the time,",
+  "but did *really well.*",
+  "I'd made over *#500K*",
+  "and then within the subsequent, like, *two weeks,*",
+  "basically went to complete *zero.*",
+  "I had a, a business partner that *scammed* me,",
+  "and I discovered *perps* at the time,",
+  "which, you know, for a, a *14, 15-year-old*",
+  "is not, not a good thing to *discover.*",
+  "So I lost a *200K,*",
+  "kind of *revenge trading,*",
+  "trying to get my, my port *back up,*",
+  "and then, you know, through the *bear market*",
+  "!went, like, back to complete *#zero.*",
+  "And how is, like, how is it different today?",
+  "Are you still mainly in crypto?",
+  "Still mainly in *crypto.*",
+  "through the bear ma- I tried *everything.*",
+  "I was, I was doing *e-com.*",
+  "I was running a, a *marketing agency,*",
+  "was like, I basically just learned how to *edit,*",
+  "and I was like, I need to just build up the, the *port again.*"
+ ],
+ "broll": [
+  {
+   "img": "broll/safemoon_headline.mp4",
+   "word": "safe moon",
+   "len": 2.0,
+   "cap": [
+    0.5,
+    0.82
+   ],
+   "capv": [
+    0.5,
+    0.64
+   ],
+   "vmode": "fit"
+  },
+  {
+   "img": "/mnt/user-data/uploads/Downloads/Maurits car.jpg",
+   "word": "500K",
+   "len": 2.5,
+   "pan": [
+    0.5,
+    0.04,
+    0.5,
+    0.62
+   ],
+   "vpan": [
+    0.75,
+    0.5,
+    0.0,
+    0.5
+   ],
+   "pzoom": 1.0,
+   "shade": "bottom",
+   "cap": [
+    0.5,
+    0.8
+   ],
+   "capv": [
+    0.5,
+    0.7
+   ]
+  },
+  {
+   "img": "gfx/counter_h.mp4",
+   "vimg": "gfx/counter_v.mp4",
+   "word": "zero",
+   "offset": -1.15,
+   "len": 2.3,
+   "cap": [
+    0.5,
+    0.93
+   ],
+   "capv": [
+    0.5,
+    0.85
+   ]
+  },
+  {
+   "img": "broll/b5.png",
+   "word": "scammed",
+   "len": 1.3
+  },
+  {
+   "img": "/mnt/user-data/uploads/Downloads/maurits.mov",
+   "word": "edit",
+   "ss": 8.2,
+   "len": 1.8,
+   "focus": [
+    0.5,
+    0.55
+   ],
+   "vfocus": [
+    0.5,
+    0.5
+   ]
+  }
+ ],
+ "punch": [
+  "pink sale",
+  "very young",
+  "two weeks",
+  "perps",
+  "14",
+  "200K",
+  "back up",
+  "crypto.",
+  "e-com",
+  "port again"
+ ],
+ "layout_override": [
+  {
+   "at": 31.7,
+   "x": 0.5,
+   "y": 0.62,
+   "kind": "wide"
+  }
+ ],
+ "cap_style": "clean",
+ "audio": {
+  "sections": [
+   {
+    "s": -0.5,
+    "e": "500K",
+    "chords": [
+     [
+      48,
+      55,
+      64
+     ],
+     [
+      45,
+      52,
+      60
+     ],
+     [
+      41,
+      48,
+      57
+     ],
+     [
+      43,
+      50,
+      59
+     ]
+    ],
+    "bright": 1600,
+    "kick": 100,
+    "kick_gain": 0.22,
+    "arp": {
+     "step": 0.3,
+     "gain": 0.03
+    },
+    "pad": 0.045
+   },
+   {
+    "s": "500K",
+    "e": "zero.",
+    "chords": [
+     [
+      45,
+      52,
+      60,
+      63
+     ]
+    ],
+    "bright": 800,
+    "pad": 0.05
+   },
+   {
+    "s": "zero.",
+    "e": "bear market",
+    "e_off": 1.5,
+    "chords": [
+     [
+      45,
+      52,
+      60
+     ],
+     [
+      41,
+      48,
+      57
+     ],
+     [
+      38,
+      45,
+      53
+     ],
+     [
+      40,
+      47,
+      56
+     ]
+    ],
+    "bright": 800,
+    "pulse": 72,
+    "bells_rel": [
+     [
+      2.0,
+      69
+     ],
+     [
+      4.7,
+      65
+     ],
+     [
+      7.4,
+      64
+     ],
+     [
+      10.1,
+      68
+     ]
+    ]
+   },
+   {
+    "s": "crypto.",
+    "s_off": -0.8,
+    "e": 45.6,
+    "chords": [
+     [
+      48,
+      55,
+      64
+     ],
+     [
+      43,
+      55,
+      62
+     ],
+     [
+      45,
+      52,
+      60
+     ],
+     [
+      41,
+      48,
+      57
+     ]
+    ],
+    "bright": 1300,
+    "kick": 90,
+    "kick_gain": 0.16,
+    "bells_rel": [
+     [
+      0.9,
+      72
+     ],
+     [
+      3.2,
+      74
+     ],
+     [
+      5.5,
+      76
+     ],
+     [
+      7.8,
+      79
+     ]
+    ]
+   }
+  ],
+  "impact": [
+   [
+    "zero.",
+    0.05,
+    0.8
+   ],
+   [
+    "200K",
+    0,
+    0.6
+   ]
+  ],
+  "cash": [
+   "500K"
+  ],
+  "glitch": [
+   "scammed",
+   "perps"
+  ],
+  "riser": [
+   [
+    "zero.",
+    2.6
+   ]
+  ],
+  "ticks": [
+   [
+    "zero.",
+    -0.95,
+    14,
+    0.07
+   ]
+  ],
+  "mute": []
+ },
+ "vcx_override": [
+  {
+   "at": 31.7,
+   "cx": 0.7
+  }
+ ],
+ "cap_preset": "approved"
+}
